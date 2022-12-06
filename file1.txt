@@ -13,5 +13,3 @@ bash2
 =======
 online edit 3
 >>>>>>> origin/master
-
-moon
