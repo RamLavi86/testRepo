@@ -8,11 +8,9 @@ feature1
 onlineedit
 bash
 online edit 2
-<<<<<<< HEAD
 bash2
 =======
 online edit 3
->>>>>>> origin/master
 
 moon2
 
